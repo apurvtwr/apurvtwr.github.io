@@ -5,27 +5,25 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+disqus: apurv.dev
+google_analytics: apurvtwr
+title: Apurv
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: kugelblitz
 
-description: Stylish Jekyll Theme
+description: 
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
+  name: Apurv
+  email: apurvtwr@gmail.com
+  github: apurvtwr
+  twitter: apurvtwr
   linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  bio: Things on my mind in no specific order!
 
 rss_path: feed.xml
 categories_path: categories.html
