@@ -7,4 +7,4 @@ fullview: true
 comments: true
 ---
 Here I am begining to blog again. Fascinating time really.
-Let's recap the last couple of months for context. 
+Let's recap the last couple of months for context. T
