@@ -9,15 +9,11 @@ fullview: true
 In your config file change these settings
 
 {% highlight yaml %}
-title: dbyll
+title: 
 author:  
-  name: yourname  
-  email: youremail  
-  github: asd123  
-  twitter: asd123  
-  pinterest: asd123  
+  name: Apurv Tiwari
+  email: apurvtwr@gmail.com  
+  github: https://github.com/apurvtwr   
   linkedin: asd123  
-  resume: asd123  
   bio: Your stylish,  minimalist theme!  
-  email_md5: md5ofemail  
 {% endhighlight %}
