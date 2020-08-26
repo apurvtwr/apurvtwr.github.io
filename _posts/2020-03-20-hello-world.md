@@ -6,5 +6,5 @@ tags: [greetings, thoughts]
 fullview: true
 comments: true
 ---
-Here I am begining to blog again. Fascinating time really.
-Let's recap the last couple of months for context. 
+I am starting this new blog as a place to hold all my active thoughts. Right now, if you are new to this place, I will be covering tech, investments and machine learning in this blog. 
+If you have a new tech to be reviewed, I would be happy to review it and comment.
