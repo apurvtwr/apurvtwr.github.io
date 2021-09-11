@@ -4,13 +4,19 @@ title:  "Trip Advisor"
 date:   2021-09-10 19:02:26 -0700
 categories: investment
 ---
-**Priliminary reasons to look at TripAdvisor**
+**Management**
 
-Covid has clearly brought down the whole travel industry, including TA. However, this is Liberty
-Media Company subsidiary. Even when the whole of travel industry is still struggling it has turned
-the corner and has returned a positive FCF in [second quarter of 2021][ta-2021-q2].
+Compenstion 2020
 
-**  [Annual Report 2020][ta-2020] **
+| Name  | Position | Base Salary | Bonus | Stock Options| Ownership Guidelines (min)|
+|-------|----------|--------|------------|--------------| -------------------
+|Stephen Kaufer| CEO | $825,000| $721,875 | | 6x base salary |
+|Ernst Teunissen| CFO | $510,000| $348,840 | $2,305,529 | 3x base salary |
+|Seth Kalvert | Chief Legal Officer| $480,000| $297,600 | $1,844,399| 3x base salary |
+|Lindsay Nelson|  Chief Experience and Brand Officer | $495,000| $363,083| $1,844,399 | 3x base salary |
+|Kanika Soni  | Chief Commercial Officer | $495,000| $327,443| $1,844,399 | 3x base salary |
+
+**[Annual Report 2020][ta-2020]**
 
 
 
