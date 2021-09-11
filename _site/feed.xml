@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://apurv.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://apurv.dev/" rel="alternate" type="text/html" /><updated>2021-09-11T14:18:52-07:00</updated><id>https://apurv.dev/feed.xml</id><title type="html">Investment Rationale</title><subtitle>After realizing that keeping track of my own ideas with so much noise, I have decided to document them and put them on this blog. Easy to access and in public (since no one else would ever read it anyways)</subtitle><entry><title type="html">Trip Advisor</title><link href="https://apurv.dev/investment/2021/09/10/trip-advisor.html" rel="alternate" type="text/html" title="Trip Advisor" /><published>2021-09-10T19:02:26-07:00</published><updated>2021-09-10T19:02:26-07:00</updated><id>https://apurv.dev/investment/2021/09/10/trip-advisor</id><content type="html" xml:base="https://apurv.dev/investment/2021/09/10/trip-advisor.html">&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://apurv.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://apurv.dev/" rel="alternate" type="text/html" /><updated>2021-09-11T16:33:42-07:00</updated><id>https://apurv.dev/feed.xml</id><title type="html">Investment Rationale</title><subtitle>After realizing that keeping track of my own ideas with so much noise, I have decided to document them and put them on this blog. Easy to access and in public (since no one else would ever read it anyways)</subtitle><entry><title type="html">Trip Advisor</title><link href="https://apurv.dev/investment/2021/09/10/trip-advisor.html" rel="alternate" type="text/html" title="Trip Advisor" /><published>2021-09-10T19:02:26-07:00</published><updated>2021-09-10T19:02:26-07:00</updated><id>https://apurv.dev/investment/2021/09/10/trip-advisor</id><content type="html" xml:base="https://apurv.dev/investment/2021/09/10/trip-advisor.html">&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://ir.tripadvisor.com/static-files/fef1a79b-0b14-40b3-ae35-da7ee030aca4&quot;&gt;Annual Report 2020&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Compenstion 2020&lt;/p&gt;
 
@@ -57,8 +59,52 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://ir.tripadvisor.com/static-files/fef1a79b-0b14-40b3-ae35-da7ee030aca4&quot;&gt;Annual Report 2020&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Median Employee Compensation : $ 88,563&lt;/p&gt;
+
+&lt;p&gt;CEO compensation is ~10x employee compensation&lt;/p&gt;
+
+&lt;p&gt;Cap Table 2020&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Name&lt;/td&gt;
+      &lt;td&gt;Common Stock&lt;/td&gt;
+      &lt;td&gt;Class B&lt;/td&gt;
+      &lt;td&gt;voting rights&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Liberty TripAdvisor Holdings&lt;/td&gt;
+      &lt;td&gt;21.4%&lt;/td&gt;
+      &lt;td&gt;100%&lt;/td&gt;
+      &lt;td&gt;57.3%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PAR Investment Partner&lt;/td&gt;
+      &lt;td&gt;8.6%&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;4.6%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;BlackRock, Inc&lt;/td&gt;
+      &lt;td&gt;6.0 %&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;3.3%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Business&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;TripAdvisor Branded hotels : click based advertising&lt;/p&gt;
+
+&lt;p&gt;Ad revenue : Businesses can promote their stuff on trip advisor’s website&lt;/p&gt;
+
+&lt;p&gt;Experiences: Consumer can search for shit they want to do and TripAdvisor connects them with
+suppliers of that shit, makes commission in the process.&lt;/p&gt;
+
+&lt;p&gt;Dining : Similar to branded hotels but for restraunt.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Quarter 2&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Add analysis here&lt;/p&gt;</content><author><name></name></author><category term="investment" /><summary type="html">Management</summary></entry></feed>
+&lt;p&gt;Add analysis here&lt;/p&gt;</content><author><name></name></author><category term="investment" /><summary type="html">Annual Report 2020</summary></entry></feed>

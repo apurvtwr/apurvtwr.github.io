@@ -4,6 +4,9 @@ title:  "Trip Advisor"
 date:   2021-09-10 19:02:26 -0700
 categories: investment
 ---
+**[Annual Report 2020][ta-2020]**
+
+
 **Management**
 
 Compenstion 2020
@@ -16,7 +19,29 @@ Compenstion 2020
 |Lindsay Nelson|  Chief Experience and Brand Officer | $495,000| $363,083| $1,844,399 | 3x base salary |
 |Kanika Soni  | Chief Commercial Officer | $495,000| $327,443| $1,844,399 | 3x base salary |
 
-**[Annual Report 2020][ta-2020]**
+Median Employee Compensation : $ 88,563
+
+CEO compensation is \~10x employee compensation
+
+Cap Table 2020
+
+| Name | Common Stock | Class B | voting rights|
+| Liberty TripAdvisor Holdings| 21.4% | 100% | 57.3% |
+| PAR Investment Partner | 8.6% | | 4.6% |
+| BlackRock, Inc | 6.0 % | 0 | 3.3% |
+
+
+**Business**
+
+TripAdvisor Branded hotels : click based advertising
+
+Ad revenue : Businesses can promote their stuff on trip advisor's website
+
+Experiences: Consumer can search for shit they want to do and TripAdvisor connects them with
+suppliers of that shit, makes commission in the process.
+
+Dining : Similar to branded hotels but for restraunt.
+
 
 
 
