@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   in public (since no one else would ever read it anyways)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://apurv.dev" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: apurvtwr
+github_username:  apurvtwr
 
 # Build settings
 theme: minima
